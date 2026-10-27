@@ -1,0 +1,3 @@
+[submodule "faderfox-editor"]
+	path = faderfox-editor
+	url = https://github.com/privatepublic-de/faderfox-editor.git
